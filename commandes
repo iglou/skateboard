@@ -1,0 +1,7 @@
+#Pour exploser les faces et appliquer des textures:
+
+	1. Changer le mode sélection en mode édition d'objet
+	2. Sélectionner les arrêtes à découper (pas toutes les arrêtes!)
+	3. Faire ctrl+E et sélectionner mark seam
+	4. shift+f10 pour afficher la fenêtre de UV
+	5. shift+f5 pour revenir à la 3D	
